@@ -21,7 +21,7 @@
 -  Proper Exception Handling
 -  Proper Input Validation
 -   Data Stored in the database(mySQL)
--   User Authentication of signUp and Login
+-   User Authentication of signUp and Login (Using UUID)
 
 ## Installation and Run
 -  You can clone this repo and start the serve on localhost
