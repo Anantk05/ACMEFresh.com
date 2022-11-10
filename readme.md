@@ -8,16 +8,13 @@
 
 # Functionalities
 ### - For Custoemrs
--   User can register/login
--   See all products
+-   register/login/update/delete - The users
+-   see/addTocart/proceedToOrder - The Products
 -   Find products by category
--   Add to cart
--   Place Order
 ### - For Admins
--   add products
--   update products
--   delete products
--   add
+-   add/update/delete - The products
+-   add/update/delete - The category
+-   add/update/delete - The Shippers
 
 
 ## Backend Work
