@@ -41,3 +41,13 @@
 -   Spring Boot
 -   Hibernate
 -   MySQL
+
+## Some API SnapShots
+![Screenshot (11)](https://user-images.githubusercontent.com/93640541/201109588-6c903f6f-1e9c-45ff-928c-0b8724290d7e.png)
+
+![Screenshot (12)](https://user-images.githubusercontent.com/93640541/201109631-7c4e7b3b-5350-447a-a30a-461f922750d8.png)
+
+![Screenshot (13)](https://user-images.githubusercontent.com/93640541/201109682-8fa14027-3efd-46d6-857a-18b3a8037f8a.png)
+
+
+# Thank You for Visiting
